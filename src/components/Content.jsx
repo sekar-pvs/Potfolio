@@ -26,7 +26,7 @@ const Content = () => {
 					<div>and I build things for web.</div>
 					<div className='  md:text-sm text-xs'>
 						I,m frontend developer have a done project in building and design
-						web applications. Currently i am eagerly awaiting the opprtunity to
+						web applications. Currently I am eagerly awaiting the opprtunity to
 						join a reputed company for an enriching internship experience.
 					</div>
 					<span className=' border border-cyan-400 p-3 absolute text-white rounded-xl'>
